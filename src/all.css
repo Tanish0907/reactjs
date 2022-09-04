@@ -1,3 +1,5 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
 html,#root,body {
     /* border: 2px red solid; */
     display: flex;

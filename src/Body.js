@@ -1,6 +1,7 @@
 import React from 'react';
-
-import './hf.css'
+import { Button ,ButtonToolbar} from 'react-bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './all.css'
 ;
 
 function Body() {
@@ -28,6 +29,7 @@ function Body() {
         </div>
 
       </div>
+     
 
     </>
 

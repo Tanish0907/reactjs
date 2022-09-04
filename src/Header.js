@@ -1,11 +1,10 @@
 import React from 'react';
-// import './App.css';
-import './hf.css'
-// import logo from './Blog writing Section - Paid-LL logo 1.png';
-// import { Dimensions } from "react";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './all.css'
+
 
 function Header() {
-  // var width = Dimensions.get('window').width;
+  
   const btn={width:30,height:39,margin:0,padding:0,textDecoration:0, marginLeft:1,marginRight:30,marginTop:1};
   
   return (

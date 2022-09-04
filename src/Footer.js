@@ -1,6 +1,6 @@
 import React from 'react';
-
-import './hf.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './all.css'
 ;
 
 function Footer() {
